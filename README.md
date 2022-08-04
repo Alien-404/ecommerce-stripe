@@ -2,4 +2,4 @@
 
 ------------
 
-demo : https://rinaru-ecommerce.vercel.app/
+demo : https://rinaru-ecommerce-stripe.vercel.app/
